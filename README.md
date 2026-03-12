@@ -29,9 +29,6 @@ ASHWIN R
 
 ![ecn exp1 ckt](https://github.com/user-attachments/assets/431d0a7f-2c0e-456d-ae0d-e62a3ca9121b)
 
-**TABULAR  COLUMN**
-![WhatsApp Image 2026-03-12 at 10 43 49 AM](https://github.com/user-attachments/assets/944b2ae8-abd3-453b-b050-965060e60a1f)
-
 **PROCEDURE:**
 
  *1.Give connections as per the circuit diagram.*
@@ -46,8 +43,14 @@ ASHWIN R
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
 
- **CALCULATION**
+**TABULAR  COLUMN:**
+![WhatsApp Image 2026-03-12 at 10 43 49 AM](https://github.com/user-attachments/assets/944b2ae8-abd3-453b-b050-965060e60a1f)
+
+ **CALCULATION:**
  ![WhatsApp Image 2026-03-12 at 10 44 15 AM](https://github.com/user-attachments/assets/7ae14574-a358-4691-bdbb-ee18132e9c7b)
+
+ **MARKS SPLIT UP:**
+ ![WhatsApp Image 2026-03-12 at 8 43 52 PM](https://github.com/user-attachments/assets/1cf0f8c1-b314-4899-be2f-41c845ae0bc7)
 
 **RESULT:**
 
