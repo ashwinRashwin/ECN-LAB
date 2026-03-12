@@ -24,6 +24,7 @@
 
 **CIRCUIT DIAGRAM:**
 
+![ecn circuit 1](https://github.com/user-attachments/assets/fdfedac9-b460-4462-968c-79b7c3b000b1)
 
 
 
