@@ -28,6 +28,8 @@ ASHWIN R
 **CIRCUIT DIAGRAM:**
 
 ![ecn exp1 ckt](https://github.com/user-attachments/assets/431d0a7f-2c0e-456d-ae0d-e62a3ca9121b)
+
+**TABULAR  COLUMN**
 ![WhatsApp Image 2026-03-12 at 10 43 49 AM](https://github.com/user-attachments/assets/944b2ae8-abd3-453b-b050-965060e60a1f)
 
 **PROCEDURE:**
